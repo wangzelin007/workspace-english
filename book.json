@@ -28,7 +28,7 @@
     "pageNumbers": false,
     "paperSize": "a4"
   },
-  "plugins": ["github"],
+  "plugins": [ "github" ],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/wangzelin007/workspace-english"
